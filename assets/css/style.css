@@ -1,0 +1,14 @@
+body {
+    background: url("../images/background.jpg") no-repeat center center fixed;
+    width: 100%;
+    height: auto; 
+    font-family: 'MedievalSharp', cursive;
+    color: rgb(241, 225, 225);
+}
+
+#gameScreen {
+    box-sizing: border-box;
+    margin: 100px;
+    background: rgba(128, 128, 128, 0.445);
+}
+
